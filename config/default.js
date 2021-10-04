@@ -21,4 +21,5 @@ const config = {
     ipfsGatewayUrl: 'http://localhost:8080/ipfs',
 }
 
+
 module.exports = config
